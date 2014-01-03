@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<directory>
-	<group ID="01000000000000000000000000000000" name="Admin">
-	</group>
+﻿<?xml version="1.0" encoding="UTF-8"?><directory>
+	<group ID="01000000000000000000000000000000" name="Admin">	</group>
+	<user ID="F327442ECA24C944A087D6D227BCE6B7" name="user" fullName="" password="814d684be9cb6eddd2bc756e0bf7af16"/>
+	<user ID="4AA0C9DF807FB04B9A06F6506D0D707E" name="user1" fullName="" password="a5b9ad09742ac754affe15cee0439ec5"/>
+	<user ID="383B1EEAE46A3147A63732B3E097FF0F" name="user2" fullName="" password="75975f786e48dd7744176cfb35c9d844"/>
+	<user ID="4C77195E986A6A489B0FD0818DEAA4DC" name="user3" fullName="" password="56d973c78ed3ce45dfea0caa851eb69b"/>
 </directory>
-
